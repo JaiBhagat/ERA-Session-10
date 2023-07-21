@@ -42,4 +42,5 @@ Smith advocates for implementing a single cycle of learning rate composed of two
 
 The superconvergence technique of OneCycleLR demonstrated superior performance, delivering rapid and impressive accuracy results, fulfilling the anticipated outcomes at the beginning of the training process.
 
+## Results
 The architecture achieved 90% accuracy at the 10th Epoch. The One Cycle Policy offers the advantage of allowing us to train our network within fewer epochs and has been utilized effectively in this scenario.
